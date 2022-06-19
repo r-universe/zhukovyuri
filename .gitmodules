@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SUNGEO"]
+	path = SUNGEO
+	url = https://github.com/zhukovyuri/sungeo
+	shallow = true
+	registered = true
+[submodule "xSub"]
+	path = xSub
+	url = https://github.com/zhukovyuri/xsub
+	shallow = true
+	registered = true
