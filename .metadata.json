@@ -1,10 +1,10 @@
 [
   {
-    "package": "xSub",
+    "package": "SUNGEO",
     "oncran": true
   },
   {
-    "package": "SUNGEO",
+    "package": "xSub",
     "oncran": true
   }
 ]
