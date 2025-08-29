@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SUNGEO"]
-	path = SUNGEO
-	url = https://github.com/zhukovyuri/sungeo
 [submodule "xSub"]
 	path = xSub
 	url = https://github.com/zhukovyuri/xsub
